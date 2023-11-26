@@ -25,7 +25,7 @@ class PalindromeTest {
     @Test
     void testPalindromeFalseWithTwoWords ()
     {
-        assertFalse(pal.IsWordPalindrome("aga rur"));
+        assertFalse(pal.IsWordPalindrome("did mim"));
     }
 
 
